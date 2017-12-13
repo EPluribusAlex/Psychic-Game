@@ -1,0 +1,15 @@
+html {
+	background-color: black;
+}
+h1 {
+	font-size: 50px;
+	color: purple;
+	font-family: 'Bungee', cursive;
+	border-bottom: 2px solid green;
+	text-align: center;
+}
+
+h2 {
+	margin: 20px;
+	color: purple;
+}
